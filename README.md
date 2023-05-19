@@ -5,7 +5,7 @@
 Create a front end page using React
 
 ## Vercel deploy
-https://proyecto-parejas-movie-rating.vercel.app/
+https://personal-movie-rating.vercel.app
 
 ## Screenshot
 ![print screen](./assets/print-screen.png)
